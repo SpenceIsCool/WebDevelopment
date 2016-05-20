@@ -1,0 +1,7 @@
+/* hiddenHeaderStyles.css */
+
+.mainHeader h1 {
+	position: absolute;
+	top: -9999em;
+	left: -9999em;
+} /* .mainHeader h1 */
