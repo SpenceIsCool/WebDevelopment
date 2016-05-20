@@ -1,0 +1,60 @@
+The basic set up for an html site looks as follows.
+
+NOTE: Until you can do this with ease you should not copy and paste it.
+
+rel: this is used by screen readers and various boolean searches. It is important that you use these and provide apt discriptions of the content it represents
+
+White space does not matter with relation to the tags but it will change the way in which your information is displayed.
+
+<tag> start tag
+</tag> end tag
+
+class = "className" - see notes on css for more information
+
+id = "idName" - see notes on js for mor information
+
+<!doctype html>
+<!-- comment: Name of file -->
+<html>
+<head>
+	<!-- state what character set you want... for american sites that is "utf-8" -->
+	<meta charset = "utf-8">
+
+	<!-- this will be displayed in the tab of your web browser -->
+	<title> MY_Title </title>
+
+	<!-- Links to anything you want to import -->
+		<!-- improting a css file using a relative path -->
+		<link href="../css/stylesheet.css" rel = "stylesheet">
+
+		<!-- importing a script file using a relative path-->
+		<!-- not yet added -->
+		
+		<!-- importing bootstrap -->
+		<!-- not yet added -->
+</head>
+<body>
+	<!-- this is a common way of making on object out of the body of your work... for some reason it is important that you do no perscribe a class to the body tag -->
+	<div class = "container">
+		<!-- this is super important that you name the site in this header in this way, it help people find your website... see -- other document -- to learn more about how you can "hide" this element -->
+		<header>
+			<h1> MY HEADER </h1>
+		</header>
+		<nav>
+			<ul>
+				<li></li>
+				<li></li>
+				<li></li>
+				<!-- add as many as neccessary -->
+			</ul>
+		</nav>
+		<section>
+		</section><!-- end section 1 -->
+		<section>
+		</section><!-- end section 2 -->
+		<!-- add as many sections as you'd like -->
+		<footer>
+		</footer>
+	</div> <!-- end div -->
+</body>
+</html> <!-- close html file -->
