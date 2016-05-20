@@ -4,6 +4,8 @@ NOTE: Until you can do this with ease you should not copy and paste it.
 
 rel: this is used by screen readers and various boolean searches. It is important that you use these and provide apt discriptions of the content it represents
 
+alt: simmilar to rel, this is used to discribe images.
+
 White space does not matter with relation to the tags but it will change the way in which your information is displayed.
 
 <tag> start tag
