@@ -1,0 +1,11 @@
+0. essential html
+1. hiding the header
+2. Nav bar
+	> that moves with you
+	> that doesn't move with you 
+3. Floating elements and the concept of "clearfix"
+4. links
+5. bootstrap
+6. font awesome
+7. sweetalerts
+8. 
