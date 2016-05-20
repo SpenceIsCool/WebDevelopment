@@ -1,0 +1,6 @@
+We need some way to allow the "student" to view the documents. preferable which quick print access and some way that they cannot copy and paste the information.
+
+Either:
+	The show head and hide header pages should realy emphasize the importance of hiding the header
+		OR
+	The home page should explain that this example is simply meant to help one picture the main idea.
